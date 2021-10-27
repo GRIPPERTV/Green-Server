@@ -17,6 +17,3 @@ To edit this project, just click **[here](https://www.roblox.com/library/7830458
 
 # Fast and lightweight (and not skidded)
 Unlike 99% of converters, this one is really good. The only reason I did this project was because the other converters kills server performance over time, for not having good security (handling errors, less use of remotes, script sandbox), plus, not exactly emulates the client environment. The only thing I joke about is skidding, but probably there were people who already skidded some converter and take all the credit from whoever did it, anyway I don't care who skids my project, just a sad person
-
-# Contribution
-If you really want to help me with something, please tell me how I can create a Sandbox for the emulated scripts or even make one for me. Basically it's a "monitor" that monitors the emulated scripts, when the player exits or the script is disabled, the emulator disables itself (does not send or receive more values from the Remotes), this can help the server perfomance as hell
