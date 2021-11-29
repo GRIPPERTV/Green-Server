@@ -2,7 +2,6 @@
 
 --[[ TODO (in order)
 	Instance.new
-	Script Sandbox
 	Workspace, Hopperbin and Tool
 	ContextActionService
 	Camera Properties
